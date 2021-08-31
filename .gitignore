@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ###static content###
-./src/main/resources/downloaded_files
+!**/src/main/resources/downloaded_files/*.jpg
