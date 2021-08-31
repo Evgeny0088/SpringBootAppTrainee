@@ -1,0 +1,1 @@
+update users set password='$2a$08$NdQKqQlUWA8yuHVBD6oWhu/Dbjpj7pHGGFzGPZjQDksCQdKWYLD4q' where id=1;

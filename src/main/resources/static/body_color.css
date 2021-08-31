@@ -1,0 +1,25 @@
+body{
+    color: #804a4a;
+}
+.post-message {
+    color: black;
+}
+
+.message-text {
+    color:darkslateblue;
+}
+
+.form-group {
+    padding: 5px;
+}
+
+.card-columns {
+    column-count: 4;
+    padding: 5px;
+
+}
+
+.card-title{
+    color: darkslateblue;
+    padding: 3px;
+}
